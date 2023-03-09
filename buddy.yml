@@ -1,0 +1,6 @@
+- pipeline: flbmvauvut
+  events:
+  - type: PUSH
+    refs:
+    - refs/heads/master
+    - omvtsfpjul
